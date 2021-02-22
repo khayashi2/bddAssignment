@@ -19,3 +19,6 @@ For this assignment, you will also need to pip install requests
 If using PyCharm, you can add the import statements and resolve the error to install them.
 
 To run the tests, go to the directory with your step definitions, and run pytest
+
+# How to run
+type 'pytest' in the terminal to execute tests
